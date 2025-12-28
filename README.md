@@ -27,10 +27,10 @@ Insert the images in their appropriate places.
 
 ## Step 8:
 Publish the website in the LocalHost.
-# OUTPUT: ![cover](https://github.com/user-attachments/assets/797641c6-f67b-4d6d-9c61-1455e5deb16d)
+
 
 # PROGRAM:
-```html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -125,7 +125,9 @@ body {
 </div>
 
 </body>
-</html> 
+</html>
+```
+# OUTPUT: ![cover](https://github.com/user-attachments/assets/797641c6-f67b-4d6d-9c61-1455e5deb16d)
 
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
